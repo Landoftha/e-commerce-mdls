@@ -1,22 +1,22 @@
 # Core scientific stack
 numpy
-pandas==2.2.3
-scipy==1.13.1
+pandas
+scipy
 
 # Visualization
-matplotlib==3.8.4
-seaborn==0.13.2
+matplotlib
+seaborn
 
 # Modeling
-scikit-learn==1.5.2
-joblib==1.4.2
+scikit-learn
+joblib
 
 # Jupyter environment
-ipykernel==6.29.5
-notebook==7.2.2
+ipykernel
+notebook
 
 # Dashboard
-streamlit==1.39.0
+streamlit
 
 # Optional: fast parquet/arrow IO (não estritamente necessário)
-pyarrow==17.0.0
+pyarrow
